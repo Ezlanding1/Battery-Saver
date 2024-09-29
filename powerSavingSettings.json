@@ -1,0 +1,9 @@
+{
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.tabCompletion": "off",
+    "editor.suggestOnTriggerCharacters": false
+}
