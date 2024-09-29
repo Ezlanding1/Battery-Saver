@@ -2,7 +2,7 @@ import path from 'path';
 import * as vscode from 'vscode';
 let fs = require('fs');
 
-const POWER_SAVING_SETTINGS_FILE = path.join("src", "powerSavingSettings.json");
+const POWER_SAVING_SETTINGS_FILE = "powerSavingSettings.json";
 
 function on(dir: string) : void {
 
