@@ -14,8 +14,16 @@
   "contributes": {
     "commands": [
       {
-        "command": "battery-saver.helloWorld",
-        "title": "Hello World"
+        "command": "battery-saver.on",
+        "title": "Battery Saver: On"
+      },      
+      {
+        "command": "battery-saver.off",
+        "title": "Battery Saver: Off"
+      },      
+      {
+        "command": "battery-saver.toggle",
+        "title": "Battery Saver: Toggle"
       }
     ]
   },
