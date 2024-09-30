@@ -3,7 +3,8 @@
   "displayName": "Battery Saver",
   "publisher": "ezl",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
+  "icon": "batterySaverLogo.png",
   "engines": {
     "vscode": "^1.93.0"
   },
